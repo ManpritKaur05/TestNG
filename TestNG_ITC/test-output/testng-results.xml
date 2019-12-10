@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95" started-at="2019-04-09T10:12:56Z" finished-at="2019-04-09T10:12:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95" started-at="2019-04-09T10:12:56Z" finished-at="2019-04-09T10:12:56Z">
+      <class name="com.annotations.Annot">
+        <test-method status="PASS" signature="bclass()[pri:0, instance:com.annotations.Annot@66d33a]" name="bclass" is-config="true" duration-ms="26" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.annotations.Annot@66d33a]" name="testCase1" duration-ms="12" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:com.annotations.Annot@66d33a]" name="bmethod" is-config="true" duration-ms="0" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:com.annotations.Annot@66d33a]" name="amethod" is-config="true" duration-ms="1" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:com.annotations.Annot@66d33a]" name="bmethod" is-config="true" duration-ms="1" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.annotations.Annot@66d33a]" name="testCase2" duration-ms="2" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:com.annotations.Annot@66d33a]" name="amethod" is-config="true" duration-ms="1" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:com.annotations.Annot@66d33a]" name="testCase3" duration-ms="3" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:com.annotations.Annot@66d33a]" name="bmethod" is-config="true" duration-ms="0" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:com.annotations.Annot@66d33a]" name="amethod" is-config="true" duration-ms="1" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="aclass()[pri:0, instance:com.annotations.Annot@66d33a]" name="aclass" is-config="true" duration-ms="1" started-at="2019-04-09T15:42:56Z" finished-at="2019-04-09T15:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aclass -->
+      </class> <!-- com.annotations.Annot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
